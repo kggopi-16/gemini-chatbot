@@ -4,6 +4,8 @@ This project aims to recreate the functionality of a Gemini Pro language model b
 
 Prerequisites:
 
-Python 3.x
-Gemini Pro API key
-Streamlit library
+1.Python 3.x,
+
+2.Gemini Pro API key,
+
+3.Streamlit library.
